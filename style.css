@@ -55,6 +55,10 @@ footer a {
     color: #212529;
 }
 
+footer a:hover{
+    color: #F8F9FA;
+}
+
 
 .container{
     position: relative;
